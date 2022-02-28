@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Farm Pest Control</string>
+    <string name="mango">mango</string>
+    <string name="man1">Mango hoppers or jassids,Amritodus atkinsoni</string>
+    <string name="man1_2">Marks of Identification\n</string>
+    <string name="man1_3">Adults: It is a small, about 5 mm long, light greenish brown Wedge shaped insect with grayish body and three dark brown spots on head.\n\nNymphs: The nymphs are pale yellow, elongated and more active.</string>
+    <string name="man1_4">Nature of Damage</string>
+    <string name="man1_5">Mango hoppers are the most destructive pests of fruit trees. Injury to the inflorescence and young shoot is caused by egg laying and feeding. The voracious feeding nymphs are particularly harmful. They cause the inflorescence to wither and turn brown. Even if the flowers are fertilized, the subsequent development and fruit setting may cease. As the wind blows, young fruits and dried inflorescence break off at the axil and fall to the ground.</string>
+    <string name="man1_6">Management</string>
+    <string name="man1_7">Do not go for high density planting as it provides favorable habitat for hopper multiplication.\n\nDo not encourage plants to put intermittent flushes by regular irrigation and split doses of nitrogenous fertilizers.\nAvoid waterlogged or damp conditions.\nIn case of old dense orchards, prune some of the branches during winter to have better light interception.\nSpray 1.25 kg Carbaryl 50 WP or 1 liter of Malathion 50 EC in 1250 liters of water per hectare, once in February and again in March.\nPest population may reduce to great extent by conserving natural enemies like Chrysopa lacciperda, Epipyrops fuliginosa, Menochilus sexmaculatus\n.</string>
+    <string name="man2">Mango Stone Weevil,Sternochetus mangiferae</string>
+    <string name="man3">Mango Mealybug,Drosicha mangiferae</string>
+    <string name="man4">Mango Fruit Flies,Bactrocera dorsalis</string>
+</resources>
